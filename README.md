@@ -5,7 +5,7 @@ Ingenieria de sistemas
 Modelos y Simulacion de sistemas
 
 
-Alejandro Orrego Roldan 1007585502
+Alejandro Orrego Roldan C.c:1007585502
 
 
-Nicolas Toro
+Nicolas Toro Lopez Cc:1020395653
