@@ -1,12 +1,16 @@
-# Entrega-1
+# Entrega-2
 
 Ingenieria de sistemas
 
 Modelos y Simulacion de sistemas
 
 
-Alejandro Orrego Roldan C.c:1007585502
+Link de youtube:https://youtu.be/CrZm1C-doA4
 
-Leandro Toro Lopez Cc:1020395653
+-Leandro Toro Lopez 1020395653 Ingenieria en sistemas 
 
-Santiago Morales Giraldo C.c1000565539
+-Alejandro Orrego Roldan 1007585502 Ingenieria en sistemas
+
+-Santiago Morales Giraldo 1000565539 Ingenieria en sistemas 
+
+
